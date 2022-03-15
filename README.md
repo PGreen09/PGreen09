@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PGreen09
 - 👀 I’m interested in coding (java, Android, etc).
-- 🌱 I’m currently learning Linux.
+- 🌱 I’m currently learning Linux, Cardboard.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at pat.green0811@gmail.com
 
